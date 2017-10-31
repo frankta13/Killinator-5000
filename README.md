@@ -1,10 +1,8 @@
 ## Killinator-5000
 
-Automated Car which drives anti-clockwise around a block!f
+Automated Car which drives anti-clockwise around a block!
 
-dfsdfsdfsdgsg
-
-![Robot Car](https://github.com/frankta13/Team-Asians-Jye/blob/master/killinatioorr5000.PNG)
+![Robot Car]({{site.url}}/killinatioorr5000.PNG)
 
 Price: AU $3.50
 
