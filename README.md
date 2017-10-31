@@ -2,7 +2,7 @@
 
 Automated Car which drives anti-clockwise around a block!
 
-![Robot Car]({{site.url}}/killinatior5000.PNG)
+![Robot Car]({{site.url}}/images/robot.PNG)
 
 Price: AU $3.50
 
