@@ -29,6 +29,11 @@ Syntax highlighted code block
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Item Specifics
+Condition:  New: A brand-new, unused, unopened, undamaged item.
+Country:    Australia
+Dimensions: 235mm x 167mm x 104mm
+
+
 
 ### Jekyll Themes
 
