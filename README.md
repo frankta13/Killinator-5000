@@ -34,7 +34,7 @@ Country:    Australia
 Dimensions: 235mm x 167mm x 104mm  
 Brand: Unbranded/Generic  
 Colour: Multi-Colour  
-Quantity: 1
+Quantity: 1  
 UPC: Does not apply  
 Model: Robot Car Chassis Kit  
 MPN: Does Not Apply  
