@@ -10,15 +10,12 @@ Price: AU $3.50
 Free Postage | 30-day Returns | New Condition
 -------------|----------------|--------------
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
 
 ### Item Specifics
 Condition:  New: A brand-new, unused, unopened, undamaged item.  
