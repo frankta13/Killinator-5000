@@ -32,7 +32,12 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 Condition:  New: A brand-new, unused, unopened, undamaged item.  
 Country:    Australia  
 Dimensions: 235mm x 167mm x 104mm  
-
+Brand: Unbranded/Generic  
+Colour: Multi-Colour  
+Quantity: 1
+UPC: Does not apply  
+Model: Robot Car Chassis Kit  
+MPN: Does Not Apply  
 
 
 ### Jekyll Themes
