@@ -9,7 +9,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Automated Car which drives anti-clockwise around a block!
 
 ```markdown
-Syntax highlighted code block
+Price: AU $3.50
 
 # Header 1
 ## Header 2
