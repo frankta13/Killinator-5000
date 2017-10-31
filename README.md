@@ -8,12 +8,8 @@ Price: AU $3.50
 
 **BUY IT NOW**
 
----
-Free Postage
-30-day Returns
-New Condition
----
-
+Free Postage | 30-day Returns | New Condition
+-------------|----------------|--------------
 
 
 
