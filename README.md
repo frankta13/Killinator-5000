@@ -5,9 +5,7 @@ Automated Car which drives anti-clockwise around a block!
 ```markdown
 Price: AU $3.50
 
-# Header 1
-## Header 2
-### Header 3
+# BUY IT NOW
 
 - Bulleted
 - List
