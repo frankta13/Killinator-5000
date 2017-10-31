@@ -1,4 +1,4 @@
-## This is my des car 
+## Killinator-5000
 
 You can use the [editor on GitHub](https://github.com/frankta13/hello-world/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -27,6 +27,8 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Item Specifics
 
 ### Jekyll Themes
 
