@@ -2,7 +2,7 @@
 
 Automated Car which drives anti-clockwise around a block!
 
-![]({{site.url}}/images/robot.PNG)
+![]({{BASE_PATH}}/images/robot.PNG)
 
 Price: AU $3.50
 
