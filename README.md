@@ -2,6 +2,8 @@
 
 Automated Car which drives anti-clockwise around a block!
 
+[![potato](https://github.com/frankta13/Team-Asians-Jye/blob/master/killinatioorr5000.PNG)]
+
 Price: AU $3.50
 
 **BUY IT NOW**
