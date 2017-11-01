@@ -5,7 +5,7 @@ Automated Car which drives anti-clockwise around a block!
 ![]({{BASE_PATH}}/images/robot.PNG)
 <img src = "https://frankta13.github.io/Team-Asians-Jye/images/robot3final.png">
 
-Price: AU $3.50
+Price: AU $74.99
 
 **BUY IT NOW**
 
