@@ -25,7 +25,7 @@ UPC: Does not apply
 Model: Robot Car Chassis Kit  
 MPN: Does Not Apply  
 
-### Vehicle consists of
+### Vehicle Parts
 1 x Arduino Uno R3  
 1 x L298N Dual Motor Controller H-Bridge Module  
 2 x DC Gear Motor  
@@ -38,7 +38,7 @@ MPN: Does Not Apply
 
 
 ### Software Implementation Code
-''
+
 ```#include <NewPing.h>
 #include <Wire.h>
 #include <LiquidCrystal_I2C.h>
@@ -257,4 +257,4 @@ void loop() {
 
 
 
-''
+
