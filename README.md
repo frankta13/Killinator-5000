@@ -39,7 +39,8 @@ MPN: Does Not Apply
 
 ### Software Implementation Code
 
-```#include <NewPing.h>
+```
+#include <NewPing.h>
 #include <Wire.h>
 #include <LiquidCrystal_I2C.h>
 
