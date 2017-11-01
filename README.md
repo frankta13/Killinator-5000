@@ -34,4 +34,4 @@ MPN: Does Not Apply
 4 x Small Breadboard  
 1 x Switch  
 
-*Vehicle requires 6 x AA batteries, not included.
+*Note: Purchase does not include batteries and USB to Arduiuno Uno connector not included.
