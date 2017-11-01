@@ -34,4 +34,4 @@ MPN: Does Not Apply
 4 x Small Breadboard  
 1 x Switch  
 
-*Note: Purchase does not include batteries and USB to Arduiuno Uno connector not included.
+*Note: Purchase does not include batteries and USB to Arduiuno Uno connector sold separately.
