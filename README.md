@@ -17,7 +17,7 @@ Free Postage | 30-day Returns | New Condition
 ### Item Specifics
 Condition:  New: A brand-new, unused, unopened, undamaged item.  
 Country:    Australia  
-Dimensions: 235mm x 167mm x 104mm  
+Dimensions: 245mm x 167mm x 104mm  
 Brand: Unbranded/Generic  
 Colour: Multi-Colour  
 Quantity: 1  
