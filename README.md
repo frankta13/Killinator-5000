@@ -33,3 +33,5 @@ MPN: Does Not Apply
 6 x 1.5V AA Battery (9V)  
 4 x Small Breadboard  
 1 x Switch  
+
+*Vehicle requires 6 x AA batteries, not included.
